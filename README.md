@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHP Crash Course 2020
 
 ## Initial version - You can download the code and follow the video tutorial.
@@ -24,3 +25,6 @@ The video covers all the basic things about PHP.
     - File uploading and file validation
     - Working with mysql
  - Composer and autoloading
+=======
+# php-tutorial
+>>>>>>> 78d52cbdda19b4e8522e5c9de1ef45b4e90b7f32
